@@ -1,2 +1,2 @@
 # GUI_ETBM
- GUI For calculation of ETBM for Zince blande materials
+ GUI For calculation of ETBM in Zince blande materials
